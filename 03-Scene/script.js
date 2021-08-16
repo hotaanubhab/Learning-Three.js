@@ -3,6 +3,7 @@
 // Scene
 const scene = new THREE.Scene()
 
+
 // Red cube
 const geometry = new THREE.TorusKnotGeometry( 10, 3, 100, 16 ,2 ,69);
 const materialsLib = [
